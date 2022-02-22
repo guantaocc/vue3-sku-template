@@ -1,19 +1,5 @@
 # vue3-sku-template
 
-## Project setup
-```
-npm install
-```
+采用邻接矩阵实现的 sku商品规格的组合
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 采用vue3.x检材实现
